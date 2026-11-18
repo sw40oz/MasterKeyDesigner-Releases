@@ -12,6 +12,6 @@ This repository holds installers only. There is no source code here.
 2. If Windows says it protected your PC, click **More info**, then **Run anyway**. The installer isn't code-signed yet.
 3. Jobs and settings from an earlier version are kept.
 
-Fingerprint (SHA-256), to check the download: `e3dd02c66dabe94230ff82f09e47bcbdf52c2897a29d486e5f9785853cd274ae`
+Fingerprint (SHA-256), to check the download: `620c6721fbba46780a22d88bb632641d4473efdbc9cf73e81993c8a4216bf725`
 
 Older versions are under **Releases** (on the right). Every installer has a matching `.sha256` file.
