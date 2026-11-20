@@ -6,12 +6,12 @@ This repository holds installers only. There is no source code here.
 
 ## Download
 
-**[Download MasterKey Designer 2.4.2 for Windows](https://github.com/sw40oz/MasterKeyDesigner-Releases/raw/main/MasterKeyDesigner-Setup-2.4.2.exe)**
+**[Download MasterKey Designer 2.5.0 for Windows](https://github.com/sw40oz/MasterKeyDesigner-Releases/raw/main/MasterKeyDesigner-Setup-2.5.0.exe)**
 
 1. Run the downloaded file.
 2. If Windows says it protected your PC, click **More info**, then **Run anyway**. The installer isn't code-signed yet.
 3. Jobs and settings from an earlier version are kept.
 
-Fingerprint (SHA-256), to check the download: `244d85a7e63076e6224d0541981a5e6f6ceab05c7fbdcdfa6f78f3cc89a29de7`
+Fingerprint (SHA-256), to check the download: `375071e533ed495349556c4dcba7cb149d08cd75a3504db60fed132aa548381c`
 
 Older versions are under **Releases** (on the right). Every installer has a matching `.sha256` file.
